@@ -1,4 +1,4 @@
-a = game:GetService("Players").BOTNOTOP1.PlayerGui.Interface.Tree.Background.Level.Text
+a = game.Players.LocalPlayer.VisionRadius.Value
 local url ="https://discord.com/api/webhooks/943901679227650048/-W-9gisO8FYj6z40vzhFXzR8DBPAlkNEi0Va6bj0990-KoPTE1vFrUySK24G7gbQUjIh"
  
 local data = {
