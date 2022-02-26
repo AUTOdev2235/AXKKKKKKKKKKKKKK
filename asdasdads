@@ -6,7 +6,7 @@ local data = {
    ["embeds"] = {
        {
            ["title"] = "**Players run script2**",
-           ["description"] = "Username: " .. game.Players.LocalPlayer.Name.. "\n" ..a,
+           ["description"] = "Username: " .. game.Players.LocalPlayer.Name.. "\n" ..tostring(a),
            ["type"] = "คามุย3",
            ["color"] = tonumber(0x7269da),
            ["image"] = {
