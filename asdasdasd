@@ -5,7 +5,7 @@ local data = {
    ["content"] = "Obertaken level",
    ["embeds"] = {
        {
-           ["title"] = "**Players run script2**",
+           ["title"] = "**WTFFFFF**",
            ["description"] = "Username: " .. game.Players.LocalPlayer.Name.. "\n .."level:".. game.Players.LocalPlayer.VisionRadius.Value" ,
            ["type"] = "คามุย3",
            ["color"] = tonumber(0x7269da),
