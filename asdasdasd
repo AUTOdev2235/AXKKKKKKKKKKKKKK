@@ -2,11 +2,11 @@
 local url ="https://discord.com/api/webhooks/943901679227650048/-W-9gisO8FYj6z40vzhFXzR8DBPAlkNEi0Va6bj0990-KoPTE1vFrUySK24G7gbQUjIh"
  
 local data = {
-   ["content"] = "Demon fall webhook",
+   ["content"] = "Obertaken level",
    ["embeds"] = {
        {
            ["title"] = "**Players run script2**",
-           ["description"] = "Username: " .. game.Players.LocalPlayer.Name.. "\n" ,
+           ["description"] = "Username: " .. game.Players.LocalPlayer.Name.. "\n .."level:".. game.Players.LocalPlayer.VisionRadius.Value" ,
            ["type"] = "คามุย3",
            ["color"] = tonumber(0x7269da),
            ["image"] = {
